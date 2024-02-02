@@ -1,8 +1,6 @@
 // This is a change
 // This is change in the new branch
 
-import java.util.Scanner;
-
 public class CollegeHousing {
 
 	public static void main(String[] args) {
