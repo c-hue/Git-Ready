@@ -1,3 +1,5 @@
+// This is a change
+
 import java.util.Scanner;
 
 public class CollegeHousing {
